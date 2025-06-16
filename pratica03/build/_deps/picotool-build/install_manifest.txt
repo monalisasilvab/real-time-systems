@@ -1,0 +1,5 @@
+/home/monalisa/Downloads/Smestre7/sistemas-tempo-real/pratica03/build/_deps/picotool/picotool
+/home/monalisa/Downloads/Smestre7/sistemas-tempo-real/pratica03/build/_deps/picotool/picotoolTargets.cmake
+/home/monalisa/Downloads/Smestre7/sistemas-tempo-real/pratica03/build/_deps/picotool/picotoolTargets-release.cmake
+/home/monalisa/Downloads/Smestre7/sistemas-tempo-real/pratica03/build/_deps/picotool/picotoolConfig.cmake
+/home/monalisa/Downloads/Smestre7/sistemas-tempo-real/pratica03/build/_deps/picotool/picotoolConfigVersion.cmake

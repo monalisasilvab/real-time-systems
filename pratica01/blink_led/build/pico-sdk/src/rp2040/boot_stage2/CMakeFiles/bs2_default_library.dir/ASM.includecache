@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/monalisa/Downloads/Smestre7/sistemas-tempo-real/blink_led/build/pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S
+
