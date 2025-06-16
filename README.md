@@ -1,0 +1,1 @@
+This repository contains the practices carried out in the real-time systems discipline carried out in 2025.1
